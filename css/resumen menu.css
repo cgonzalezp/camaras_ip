@@ -1,0 +1,8 @@
+@charset "utf-8";
+.resumenmenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #99FF66;
+	font-weight: lighter;
+	list-style:circle;
+}

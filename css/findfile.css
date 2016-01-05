@@ -1,0 +1,14 @@
+@charset "utf-8";
+.findfile {
+	height: 115px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+
+}
+.findfile_interior {
+	margin-right: auto;
+	margin-left: auto;
+
+}
